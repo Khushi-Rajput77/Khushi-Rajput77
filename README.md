@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20I'm%20Khushi Thakur%20👋&fontSize=50&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20I'm%20Khushi_Thakur%20👋&fontSize=50&fontColor=fff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+Three.js;Building+3D+Web+Experiences+🚀)](https://git.io/typing-svg)
 
