@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+Three.js;Building+3D+Web+Experiences+🚀)](https://git.io/typing-svg)
 
- 🙋‍♂️ About Me
+ 🙋‍♂️ About_Me
 
 - 🔭 Currently building **full-stack web apps** with React & Node
 - 🎨 Love crafting **3D experiences** using Three.js
